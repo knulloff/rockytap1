@@ -9,9 +9,9 @@ error_reporting(0);
 
 
 //Your Api key
-$apiKey = 'your_telegram_api_key';
+$apiKey = '7766666181:AAGrI-S5JApW0CRkVyn2YL1JuPG-69S2FlE';
 //Your bot name
-$botUsername = 'my_bot_name';
+$botUsername = 'starfrogtap_bot';
 //Your domain name
 $web_app = 'https://yoururlhere.com';
 //Youd database info
